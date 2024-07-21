@@ -6,24 +6,24 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-I'm Afifah Ayesha Bijli, a passionate developer with a knack for building intuitive and efficient web applications. I enjoy exploring new technologies and applying them to solve real-world problems.
+I'm Afifah Ayesha Bijli, a passionate developer with a knack for building user-friendly and efficient web applications. I enjoy exploring new technologies and applying them to solve real-world problems.
 
 **Skills:**
 Complete Web Developer and UI/UX designer as well
 
-Worked on tools using figma ,Wix Studio 
+Worked on tools as figma ,Wix Studio 
 
 🚀 **Projects**
 
-KOSRA :  A user-friendly Travel-management website for hotel,resturant,flight booking also to add photos for memories and a feature to add in bucket list.Collabrated with (https://github.com/KavyaSingh236/)
+**KOSRA** :  A user-friendly Travel-management website for hotel,resturant,flight booking also to add photos for memories and a feature to add in bucket list.Collabrated with (https://github.com/KavyaSingh236/)
 
-Tempsat: A user-friendly weather website that provides accurate forecasts and insights.
+**Tempsat**: A user-friendly weather website that provides accurate forecasts and insights.
 
-Valentine special: Interactive website
+**Valentine special**: Interactive website
 
-PixelCraft: An online image editor focused on simplicity and efficiency for basic editing tasks.
+**PixelCraft**: An online image editor focused on simplicity and efficiency for basic editing tasks.
 
-Smart Detection : An iot project using esp32 and various sensors for the community service
+**Smart Detection** : An iot project using esp32 and various sensors for the community service
 
 
 **🌱 I’m currently learning**
